@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Produsen Mitra Tani Berkah",
+  "description": "Sistem Informasi & Manajemen Operasional Koperasi Pertanian Terpadu (Saprodi, Alsintan, Agribisnis Sayuran, Simpan Pinjam, Brilink, dan Laba Rugi)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
